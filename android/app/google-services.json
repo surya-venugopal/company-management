@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694571257195",
+    "firebase_url": "https://asian-4e978.firebaseio.com",
+    "project_id": "asian-4e978",
+    "storage_bucket": "asian-4e978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694571257195:android:77e51d79e0bf24e044502e",
+        "android_client_info": {
+          "package_name": "com.asian.asian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694571257195-b72nvg7d7ln526ic5fdmk6kp8l66klst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asian.asian",
+            "certificate_hash": "f41e3ad56808ec563902c5fede219a5be76d6418"
+          }
+        },
+        {
+          "client_id": "694571257195-s94njfm5pq2jo9897qegv4l56ff7tdl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo7S8Rb59PdB10hJlhXJln6_jtC3-RqKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694571257195-s94njfm5pq2jo9897qegv4l56ff7tdl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
